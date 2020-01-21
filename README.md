@@ -56,6 +56,7 @@ This project is under the MIT license.
 ---
 
 Made with ♥ by Henrique Campaner :wave:
+
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
