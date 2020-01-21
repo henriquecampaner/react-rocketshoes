@@ -46,6 +46,9 @@ $ cd react-rocketshoes
 # Install dependencies
 $ yarn install
 
+# start the json-server api
+$ yarn api:server
+
 # Run the app
 $ yarn start
 ```
